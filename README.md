@@ -11,9 +11,6 @@ Status: Version 1
 - https://pkg.go.dev/net/http
 - https://pkg.go.dev/encoding/xml
 
-### Index 
-[[_TOC_]]
-
 # Veille des flux RSS des avis de sécurité du CERT-FR via une liste de mots clés
 Permettre de faire de la veille des avis du CERT-FR sur des technologies spécifiques
 
